@@ -1,7 +1,7 @@
 # SlideAway-Camera-Slider-App-iOS-
 The iOS app builded in xCode Swift 5, for a camera slider using Bluetooth 4.0V (CoreBluetooth)
 
-**La app de iOS fue desarrollada por mí**
+**Yo fui el encargado del desarrollo de la app de iOS**
 
 ![instrucciones 1](https://user-images.githubusercontent.com/58285337/155245455-672e2cc5-d739-4d77-9d0e-5e25c2992ffb.jpg)
 
